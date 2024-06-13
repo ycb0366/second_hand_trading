@@ -69,8 +69,3 @@ Administrators can view transaction information and manage transactions. They ca
 #### (5) Logout Module:
 Administrators can log out after using the system to ensure security and prevent unauthorized access.
 
-## Usage
-
-1. Clone the project to your local environment:
-   ```bash
-   git clone <your-repository-url>
